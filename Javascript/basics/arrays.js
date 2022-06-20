@@ -42,6 +42,7 @@ for (const n in nums) {
     console.log(nums[n]);   
 }
 
+
 //for.. each
 /**
  * Manipulates each value of the array
