@@ -1,0 +1,25 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "For Nerds❤\r     😢Stuck writting Js code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "move":"cd javascript/http",
+    "start":"cd javascript/http node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/La-Mello/Javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/La-Mello/Javascript/issues"
+  },
+  "homepage": "https://github.com/La-Mello/Javascript#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}

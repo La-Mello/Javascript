@@ -1,5 +1,7 @@
 const http=require('http');
-// const dotenv=require('dotenv')
+const dotenv=require('dotenv')
+dotenv.config({path:'./config.env'});
+
 
 const server=http.createServer((req,res)=>{
 
