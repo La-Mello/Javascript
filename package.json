@@ -4,9 +4,7 @@
   "description": "For Nerds❤\r     😢Stuck writting Js code",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "move":"cd javascript/http",
-    "start":"cd javascript/http node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
